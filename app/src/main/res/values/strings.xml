@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">99acres Clone</string>
+    <string name="_99acres">99acres</string>
+    <string name="add_99acres_app_to_auto_start">Add 99acres app to autostart</string>
+    <string name="please_enable_auto_start">Please enable auto start settings so that we can send you personalized notifications.</string>
+    <string name="running">Running</string>
+    <string name="auto_start">Auto Start</string>
 </resources>
